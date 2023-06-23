@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string name="swap_languages">Swap languages</string>
+    <string name="enter_a_text_to_translate">Enter a text to translate</string>
+    <string name="translate">Translate</string>
+    <string name="copy">Copy</string>
+    <string name="play_loud">Play loud</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="history">History</string>
+    <string name="error_service_unavailable">Error happened, please try again!</string>
+    <string name="error_client">Error happened, connect the support because it is a client error</string>
+    <string name="error_server">Error happened, this is a server error.</string>
+    <string name="error_unknown">Error happened, something got wrong!</string>
+    <string name="record_audio">Record audio</string>
+</resources>
